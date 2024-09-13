@@ -8,6 +8,8 @@
     background-color: var(--white1);
     margin-bottom: 1rem;
     cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .card-id-wrapper {
