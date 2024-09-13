@@ -48,6 +48,7 @@ export default function Navbar(props) {
                                     <option value="user">User</option>
                                     <option value="priority">Priority</option>
                                 </select>
+                                
                             </div>
                         </div>
                         <div className="nav-disp-filters">
