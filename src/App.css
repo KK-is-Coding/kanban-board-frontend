@@ -21,7 +21,6 @@
   height: calc(100vh - 68px);
   background-color: var(--grey2);
   overflow-x: scroll;
-  
 }
 
 .board-details-list {
@@ -33,8 +32,6 @@
   flex-direction: row;
   justify-content: flex-start;
   align-items: flex-start;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 @media (max-width: 38rem) {
